@@ -1,0 +1,348 @@
+*{
+    box-sizing: border-box;
+}
+a, a:focus, a:hover {color: #1360b3;}
+*:hover,*:focus,a:hover,a:focus,form-control:hover,form-control:focus,
+button:hover,button:focus,.btn:hover,.btn:focus,
+.btn:not(:disabled):not(.disabled):active:focus, 
+.btn:not(:disabled):not(.disabled).active:focus, 
+.show > .btn-danger.dropdown-toggle:focus,.btn:not(.card-link){text-decoration: none;outline: none;box-shadow: none;}
+.editor-emoji-icon{height: 20px;}
+html,body{margin: 0;height: 100%;}
+html,body,textarea{font-family: 'Open Sans', sans-serif !important;}
+div#app {height: 100%;}
+.v-msg div:last-child{display:none !important;}
+select {-webkit-appearance: none;-moz-appearance: none;padding: 5px 8px;}
+.btn-orange{background: linear-gradient(to left,   #e66512,#f79352  ) !important;color: #fff !important;border-color: transparent !important;}
+.btn-orange-border{color: #f79352 !important;border: 1px solid #f79352 !important;background: #fff !important;}
+*::placeholder {color: #ccc;opacity: 1;}
+*::-webkit-placeholder {color: #ccc;opacity: 1;}
+*::-moz-placeholder {color: #ccc;opacity: 1;}
+select:required:invalid {color: #ccc;}
+option[value=""][disabled] {display: none;}
+/* On mouse-over, add a grey background color */
+/*            .custom-checkbox:hover input ~ .checkmark {
+                background-color: #ccc !important;
+            }*/
+
+/* When the checkbox is checked, add a blue background */
+.custom-checkbox input:checked ~ .checkmark { background-color: rgb(0, 117, 217) !important;}
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {content: "";position: absolute;display: none;}
+/* Show the checkmark when checked */          
+.custom-checkbox input:checked ~ .checkmark:after {display: block;}
+/* Style the checkmark/indicator */
+.custom-checkbox .checkmark:after {left: 10px;top: 6px;width: 5px;height: 10px;border: solid white;border-width: 0 3px 3px 0;-webkit-transform: rotate(45deg);-ms-transform: rotate(45deg);transform: rotate(45deg);}
+/* width */
+::-webkit-scrollbar {width: 10px;position: absolute;left: 0;}
+
+/* Track */
+::-webkit-scrollbar-track {background: #f1f1f1; border-radius: 5px;}
+
+/* Handle */
+::-webkit-scrollbar-thumb {background: #888; border-radius: 5px;}
+
+.tab-button {padding: 6px 10px;border-top-left-radius: 3px;border-top-right-radius: 3px;border: 1px solid #ccc;cursor: pointer;background: #f0f0f0;margin-bottom: -1px;margin-right: -1px;}
+.tab-button:hover {background: #e0e0e0;}
+.tab-button.active {background: #e0e0e0;}
+.tab {border: 1px solid #ccc;padding: 10px;}
+.posts-tab {display: flex;}
+.posts-sidebar {max-width: 40vw;margin: 0;padding: 0 10px 0 0;list-style-type: none;border-right: 1px solid #ccc;}
+.posts-sidebar li {white-space: nowrap;text-overflow: ellipsis;overflow: hidden;cursor: pointer;}
+.posts-sidebar li:hover {background: #eee;}
+.posts-sidebar li.selected {background: lightblue;}
+.selected-post-container {padding-left: 10px;}
+.selected-post > :first-child {margin-top: 0;padding-top: 0;}
+.dropbtn {background-color: #3498DB;color: white;padding: 16px;font-size: 16px;border: none;cursor: pointer;}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {background-color: #2980B9;}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content-oq {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    bottom: 54px;
+    right: 0;
+}
+
+/* Links inside the dropdown */
+.dropdown-content-oq a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content-oq a:hover {background-color: #ddd}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content-oq container when the user clicks on the dropdown button) */
+.show {display:block;}
+
+
+
+
+.b-calendar{
+    display: inline-block;
+    background: #425b76 !important;
+    border-radius: 4px;
+    overflow: hidden;
+    padding: 8px 5px 4px;
+}
+
+.b-calendar-nav{display: flex;}
+.b-calendar-nav button.btn {
+    border: none;
+    flex: 1 1 auto;
+    font-size: 20px;
+    padding: 4px;
+}
+.b-calendar-nav button.btn div{display: flex;align-items: center;}
+.b-calendar .font-weight-bold {
+    font-weight: 700 !important;
+}
+.b-calendar  .border-bottom {
+    border-bottom: 1px solid #dee2e6 !important;
+}
+.b-calendar .row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.b-calendar .no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+.b-calendar .no-gutters > .col, .b-calendar .no-gutters > [class*="col-"] {padding-right: 0; padding-left: 0;background-color: transparent !important;}
+.b-calendar .col {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    max-width: 100%;
+    position: relative;
+    width: 100%;
+}
+.b-calendar path {
+    fill: #fff;
+}
+.b-calendar small,.b-calendar .small {
+    font-size: 80%;
+    font-weight: 400;
+}
+.b-calendar .form-control {
+    display: block;
+    width: 100%;
+    height: auto !important;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    margin-top: -50px;
+    background-color: #425b76 !important;
+    color: #fff;
+    background-clip: padding-box;
+    border: none !important;
+    border-radius: 0;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    padding: 0 !important;
+    text-align: center !important;
+    margin-bottom: 0 !important;
+}
+
+.b-calendar .b-calendar-grid-body .col[data-date] .btn {
+    width: 32px;
+    height: 32px;
+    font-size: 14px;
+    line-height: 1;
+    margin: 3px auto;
+    padding: 9px 0;
+    color: #eee !important;
+    background: none !important;
+    min-height: 0;
+}
+.b-calendar .b-calendar-nav {
+    justify-content: space-between;
+}
+.b-calendar .b-calendar-nav button:nth-child(1), .b-calendar .b-calendar-nav button:nth-child(3), .b-calendar .b-calendar-nav button:nth-child(5) {
+    display: none;
+}
+.b-calendar .text-center {
+    text-align: center !important;
+}
+
+.b-calendar .p-1 {
+    padding: 0.25rem !important;
+}
+
+.b-calendar .mb-1,.b-calendar .my-1 {
+    margin-bottom: 0.25rem !important;
+}
+
+.b-calendar .d-block {
+    display: block !important;
+}
+
+.b-calendar .rounded {
+    border-radius: 0.25rem !important;
+}
+.b-calendar .border-0 {border: 0 !important;}
+.b-calendar .btn.disabled,.b-calendar  .btn:disabled {
+    opacity: 0.65;
+}
+.b-calendar output.mb-1 {
+    color: #eee;
+    height: 0;
+    overflow: hidden;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+}
+.b-calendar footer {
+    display: none;
+}
+.b-calendar .no-gutters > small.col {
+    margin-bottom: 5px;
+    color: #fff;
+}
+.b-calendar .form-control header {
+    color: #fff;padding: 15px 0 !important;
+}
+.b-calendar .b-calendar-nav button:nth-child(2), .b-calendar .b-calendar-nav button:nth-child(4) {
+    max-width: 40px;
+}
+.b-calendar .b-calendar-grid-body .col[data-date] .btn.active {background: #fff !important;color: #181818 !important;font-size: 13px;}
+
+
+/******************
+CHAT WINDOW EVENT BOX
+*******************/
+
+.veb-box-head {
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+    font-weight: 700;
+    font-size: 16px;
+}
+.veb-box-head img {
+    border-radius: 50%;
+    margin-right: 15px;
+}
+.veb-box-head p {
+    margin: 0;
+}
+.veb-box-body .b-calendar, .veb-box-body .b-calendar * {
+    max-width: 100%;width: 100%;
+}
+.veb-box-body .b-calendar {
+    margin-bottom: 10px;
+}
+.veb-box-body .col-form-label {
+    font-weight: 600;
+    margin-bottom: 4px;
+    display: inline-block;
+}
+.veb-box-body .form-control {
+    width: 100%;
+    padding: 0px 10px;
+    height: 35px;
+    border-radius: 10px;
+    font-size: 14px;
+    border: 1px solid rgb(204, 204, 204);
+    color: rgb(85, 85, 85);
+}
+.veb-box-body .visitor-schedule--right .list-schedule-details{display: none !important;}
+.veb-box-body .list-schedule-details{
+    padding: 0;
+    list-style: none;
+    line-height: 24px;
+    text-align: center;
+}
+.veb-box-body .b-calendar .b-calendar-grid-body .col[data-date] .btn {
+    height: 26px;
+}
+.veb-box-body .list-schedule-details .fw-600 {
+    font-weight: 600;
+}
+.veb-box-body .form-group + .form-group{margin-top: 15px;}
+.visitor-schedule--right {
+    margin-top: 15px;
+}
+
+
+
+
+#centerTriggerModalWrapper {
+    transform: scale(1) !important;
+    height: auto !important;
+    margin:0 !important;    margin: calc((100vh - 685px)/2) auto auto !important;
+
+}
+div#lc-chatButtonWrapper-outer.lc-center-trigger-wrap .trigger {
+    height: 100vh;
+}
+
+.div#lc-chatButtonWrapper-outer.lc-center-trigger-wrap div#chatButtonWrapper-circle{display: block;}
+
+/**************
+CHAT WINDOW HEAD
+***************/
+.ncw-head-main-title{font-size: 26px;margin:0 0 8px;white-space:nowrap;}
+.ncw-head-main-sub-title{font-size: 16px;margin:0 0 8px;line-height: 28px;}
+
+
+
+/**************
+CHAT WINDOW
+***************/
+.cw-ngagge-desktop{
+    max-height: calc(100vh - 40px) !important;
+}
+.conv-email-msg-attachment-dwld{transition: all 0.5s;line-height: 1;}
+.conv-email-msg-attachment-dwld:hover{background-color: #e1e1e1;}
+.cnw-btn-msg-send {transform: scale(0.75);margin: 0 -6px;}
+#lc-chatWindowFooter .lc-toggleChatWindowInput button {font-size: 22px !important;padding-right: 4px !important;margin-right: 6px !important;}
+
+@media(max-height:719px){    
+    .ncw-head-main-title{font-size: 20px;margin:0 0 8px;white-space:nowrap;}
+    .ncw-head-main-sub-title{font-size: 14px;margin:0 0 8px;line-height: 22px;}
+    .f-company-logo {height: 36px !important;}
+    .f-company-logo img {max-height: 32px !important;}
+    .ncw-f-com-logo{padding: 6px 0 !important;}
+    .ncw-f-com-logo img{max-height:20px !important;}
+    #lc-extraContentOverWindowPastChats{bottom: 32px !important;}
+
+    .ncw-head-agent-imgs img {max-width: 40px !important;}
+    .ncw-head-agent-imgs p {font-size: 11px !important;}
+    #lc-chatWindowMessagingWrap .chatapp-win-message {max-height: calc(100% - 32px) !important;}
+    .f-availability-text,.ncw-head-text-yr-conv {margin-top: 8px !important;font-size: 14px !important;}
+    /*.lc-chat-window-head-wrap > div {padding-bottom: 12px !important;}*/
+    #lc-clsChatWinBtnDesktop {width: 50px  !important;height: 50px  !important;margin: 10px 20px 0px  !important;}
+    #lc-clsChatWinBtnDesktop span{font-size: 40px  !important;line-height: 50px  !important;}
+    #lc-chatWindowWrapper{max-height: calc(100vh - 94px) !important;margin-top: 34px !important;}
+    /*#lc-onLineUploadBtn{width: 50px !important;height: 50px !important;margin-top: 16px !important;}*/
+    #lc-chatWindowTemplatesWrapper {max-height: calc(100vh - 94px) !important;margin-top: 34px !important;}
+    #allFormWrapper{bottom: 32px !important;}
+    .cnw-head-inner-wrap:not(.agent-top){padding-top:10px !important;padding-bottom:24px !important;}
+
+}
+.cw-ngagge-mobile .ncw-head-agent-imgs-wrap{margin-top: 16px !important;}
+.cw-ngagge-mobile .ncw-head-agent-imgs-wrap li:nth-child(2) {margin: 0 !important;}
+.cw-ngagge-mobile .ncw-head-agent-imgs-wrap li:nth-child(2) img{position: static !important;}
+.cw-ngagge-mobile .lc-chat-window-head-bg{border-radius: 0 !important;}
+.cw-ngagge-mobile #lc-chatWindowTemplatesWrapper{margin: 0 !important;max-height: calc(100vh - 0px) !important;}
+.cw-ngagge-mobile #lc-extraContentOverWindow{bottom:32px !important;}

@@ -1,0 +1,1 @@
+export var ChatComponentJson = require('./ChatComponentJsonData.json');

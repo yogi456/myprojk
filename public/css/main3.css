@@ -1,0 +1,19 @@
+/*********Help support*********/
+.whc-part{line-height: 1.4;color: #1a1a1a;}
+.help-support{background-color: rgb(238, 238, 238) !important;}
+.jumbotron.bg-light.text-center.help-support h1 {font-weight: 300;font-size: 30px;text-transform: capitalize;}
+.help-support .lead {font-size: 26px !important;}
+.feedback li{padding:5px;}
+.fs-24.fead-back-heading {font-size: 30px;}
+.fs-24.percent-useful {	font-size: 24px;}
+.feedback img {	width: 70px;}
+.still-have{display: block; background-color: #337ab7; max-width: 400px;margin: 0 auto; color: #fff;font-size: 24px;font-weight: 600;border-radius: 10px;}
+.related-article-wrap h2 {font-size: 40px;}
+.related-article-wrap li {font-size: 21px;font-weight: 200; text-transform: capitalize;}
+.list-inline.feedback.-btn-list.d-flex.justify-content-center {	margin: 25px 0 40px;}
+.btn-still-have-ques.d-block {	margin: 60px 0;}
+.btn-still-have-ques {display: flex;color: #fff;font-weight: 600;max-width: 420px;align-items: center;font-size: 26px;padding: 5px 10px;border-radius: 10px;margin: 60px auto 0;justify-content: center; background-color: #337ab7 !important;}
+.btn-still-have-ques span {padding: 0 8px;}
+.btn-still-have-ques span {padding: 0 8px;}
+.btn-still-have-ques span .fa {	font-size: 80px !important;}
+/*********Help support end*****/

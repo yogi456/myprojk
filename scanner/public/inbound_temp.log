@@ -1,0 +1,4116 @@
+Array
+(
+    [time] => 2020-10-07T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-10-07T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-10-07T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => no
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => no
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => no
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => no
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => no
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => asdsad
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => asdsad
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => asdsad
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => asdsad
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => asdsad
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => asdsad
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => start chat direct
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => no
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => eret
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => no
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sdfdsfds
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => fsdfdsfs
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => fsdfdsfs
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => rhth jtyj tj
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => dfgfdhdfh
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => grt ergtr h
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => no
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => no
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => chat start
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => no
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => no
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => dfgdf
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => erterfrg
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => asdasdf
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => asdasdf
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => asdasdf
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => ssss
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => ssss
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => ssss
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => asdasd
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => dfgdfg
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => jhghjgj
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => jhghjgj
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => asdassf
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => asfsfdg
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => hvghv j
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => wrong response
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => yes
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => message from visitor
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => message from visitor
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => message from visitor
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales trtrtr
+        )
+
+)
+Array
+(
+    [time] => 2020-03-31T09:40:52.037Z
+    [type] => message-received
+    [to] => 2016609635
+    [description] => Incoming message received
+    [message] => Array
+        (
+            [id] => 157415645194656hwsy3n4ogqemkd
+            [owner] => +19999998989
+            [applicationId] => fc1143a1-4cf6-46aa-85c1-f330f21ad844
+            [time] => 2019-11-19T09:40:51.946Z
+            [segmentCount] => 1
+            [direction] => in
+            [media] => Array
+                (
+                )
+
+            [to] => Array
+                (
+                    [0] => 2016609635
+                )
+
+            [from] => +918269334349
+            [text] => sales trytrh rhfgb fghtr hg eg ergdsgdghhhh
+        )
+
+)

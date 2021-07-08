@@ -1,0 +1,1 @@
+export var TicketSettComponentJson = require('./TicketSettComponentJsonData.json');

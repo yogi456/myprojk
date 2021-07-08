@@ -1,0 +1,48 @@
+@media(max-width:1919px){
+
+    .addons-feature-single .h-wrapper img {max-width: 56px;border-radius: 10px;}
+    .connect-wrapper .link-item {width: 32px;height: 32px;line-height: 32px;right: 0.5rem;top: 0.5rem;}
+    .connect-wrapper .addons-feature-single h3,.connect-wrapper .addons-feature-single .fs-22 {font-size: 20px !important;}
+    .connect-wrapper .link-item .lcs-icon {font-size: 16px !important;}
+    .connect-wrapper .fs-40 {font-size: 36px !important;}
+    .connect-wrapper .fs-26 {font-size: 24px !important;}
+    .connect-wrapper .addons-feature-single ul.px-5{padding: 0 1.5rem !important;}
+
+
+    /*******************
+    CONSOLE PAGE
+    **********************/
+    .cc-main-button-group button{min-width: 42px !important;}
+    .site-main-tabs .navbar-brand, .site-header {padding-top:0px !important;padding-bottom: 0 !important;font-size: 22px;}
+    .console-head-row .site-main-tabs .nav-link .fa {font-size: 36px;}
+    .transc-section {height: calc(100vh - 275px);}
+    /*.chat-window-wrap {height: calc(100vh - 385px);}*/
+    .chat-first-sub-wrap {height: calc(100vh - 494px);}
+    .console-right-info {height: 236px;}
+    .chat-info-form .col-form-label {padding-top: 2px;padding-bottom: 2px;}
+    .chat-info-form .form-control {padding: 2px 5px;}
+    .chat-window {padding-left: 5px !important;padding-right: 5px !important;}
+    .chat-info-form .bootstrap-select > .dropdown-toggle {padding: 0px 15px;}
+    .chat-info-form .bootstrap-select.btn-group .dropdown-toggle .filter-option {font-size: 14px;}
+    nav.side-navbar .waiting-chat, .header .waiting-chat {font-size: 18px;}
+    .nav-menu .nav-item .fa {font-size: 26px;}
+    #inhousemsgg .fa-bell {background-size: 40px auto;}
+    nav.navbar #notifications .badge, nav.navbar #inhousemsgg .badge {width: 20px;height: 20px;line-height: 20px;right: 3px;}
+    #users .fa.fa-angle-down {top: 4px;}
+    #helps .custom-icon-info {background-size: 30px 30px;top: -3px;min-width: 32px;min-height: 35px;}
+    .chat-info-form:first-child .form-group { margin-bottom: 5px !important;}
+    .chat-info-form:last-child .form-group { margin-bottom: 7.5px !important;}
+    .console-right-info .col {padding-top: 7px !important;}
+    .notice-alert {font-size: 16px;}
+
+    /*******************
+    VISITOR PAGE
+    **********************/
+    .chart-title {font-size: 18px;}
+    .chart-div {min-height: 200px;max-height: 200px;}
+    .table-visitor-wrap {max-height: calc(100vh - 555px);}
+    
+    .knowledgebase-wrap .collaboration-right{padding-left: 0;}
+    
+
+}

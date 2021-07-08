@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 12, 2018, 6:19:01 PM
+    Author     : arun
+*/
+
+.app-storeimg {	max-width: 144px;}
+.darkblue{background-color: #002060;}
+.darkblue p{color:#fff;}
+.languagetable .form-control {	min-width: 200px !important;}
+.notificationtable select {min-width: 200px !important;}
+.notificationtable button {max-width: 100px !important; background-color: #ddd; color:#fff; }
+.notificationtable button:hover {max-width: 100px !important; background-color: #ddd; color:#fff; }
+.mx-0.second-row > div {	max-width: calc(50% - 3px);     padding: 0;}
+.hireagent h1 {	font-size: 18px;}
+.l-font-size {	font-size: 38px;	padding: 5px;}
+.s-font-size {	font-size: 30px;	padding: 8px;}
+.white-bg-color{background-color: #fff;}
+.lblue-bg-color{background-color: #93a8ce;}
+.blue-bg-color{background-color: #5d7db6;}
+.row.mx-0.second-row p{font-size: 14px;}
+.height-inner {	display: flex;	flex-direction: column;	height: 100%;}
+.second-row {	flex-grow: 1;	display: flex;  justify-content: space-between;}
+.height-inner > div:last-child {flex-grow: 1;	display: flex;}
+.inner-section{display: flex;flex-direction: column;}
+.bg-ornage{ background-color: #c55a11;}
+.lightblack{background-color: #595959;}
+.h-wrapper a {	font-size: 14px; text-decoration: underline !important;}
+.orange-bg-color{background-color: #f6c8a8;}
+.black-bg-color{background-color:#7f7f7f;}
+.row.mx-0.second-row span {width: 46px;	height: 46px;}
+.row.mx-0.inner-row span {width: 50px;	height: 50px;}
+.first-border > div {border: 2px solid #002060;}
+.second-border > div {border: 2px solid #c55a11;}
+.thid-border > div {border: 2px solid #595959;}
+.request-heading {	font-size: 18px;}

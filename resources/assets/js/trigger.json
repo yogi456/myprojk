@@ -1,0 +1,110 @@
+{
+    "trigger_center_iframe": {
+        "triggerEditorContent": "",
+        "editPhotoId": "",
+        "fromComName": "from freeChat247live",
+        "editTriggerCondition": "/",
+        "country_id": "",
+        "country_name": "",
+        "state_id": "",
+        "state_name": "",
+        "city_id": "",
+        "city_name": "",
+        "triggerPageType":"Button",
+        "selectTemplateView":"1",
+        "editTriggerTime": "0",
+        "defaultAgentImg": "images/theme/default/w/d-agent-1.jpg",
+        "defaultAgentName": "ankur"
+    },
+    "triggerSett": {
+        "photoLocation": "Side",
+        "useGradientHeader":false,
+        "popoutMessage": {
+            "text": "Hi. Need help with pricing?",
+            "textRegu": false,
+            "textItalic": false
+        }
+    },
+    "templateFirst": {
+        "isActive": false,
+        "enableIconNLogo": true,
+        "iconNLogo": "/images/d-center-trigger-logo.jpg",
+        "header": {
+            "text": "All sales and support conversations start and end here",
+            "textRegu": false,
+            "textItalic": false
+        },
+        "centerImageOrVideo": "Image",
+        "centerImage": "/images/d-center-trigger-img.jpg",
+        "centerVideoUrl": "https://www.youtube.com/embed/EngW7tLk6R8?showinfo=0",
+        "subText": {
+            "text": "Watch this short video, take a quick tour or scan the articles below to increase sales and provide premium support with the latest technology in conversational engagement via live chat, SMS messenging, Facebook messenger and email.",
+            "textRegu": false,
+            "textItalic": false
+        },
+        "linksArr": [
+            {
+                "link_text": "Click here",
+                "link_url": "https://www.google.com"
+            }
+        ]
+    },
+    "templateSecond": {
+        "isActive": false,
+        "enableIconNLogo": true,
+        "iconNLogo": "/images/d-center-trigger-logo.jpg",
+        "header": {
+            "text": "All sales and support conversations start and end here",
+            "textRegu": false,
+            "textItalic": false
+        },
+        "prodNServArr": [
+            {
+                "pSImage": "/images/d-sample-trigger-prod.jpg",
+                "pSTitle": "Headphone",
+                "pSDesc": "At Vaschy, we believe that parenting is style is possible. Our collection is designed families with smart and stylish",
+                "pSLinkText": "Visit our product page",
+                "pSLinkUrl": "https://www.google.com"
+            }
+        ]
+    },
+    "triggerBtnArray": [{
+            "btn_text": "Chat with us!",
+            "active":false,
+            "btn_uses": [
+                {
+                    "id": 1,
+                    "name": "start conversation"
+                }, 
+                {
+                    "id": 2,
+                    "name": "sdfsd"
+                }, 
+                {
+                    "id": 3,
+                    "name": "sdfsd"
+                }
+            ],
+            "selectedBtnUse": "1",
+            "chat_deptts": [
+                {
+                    "id": 1,
+                    "name": "Any"
+                }, 
+                {
+                    "id": 2,
+                    "name": "designing"
+                },
+                {
+                    "id": 3,
+                    "name": "development"
+                },
+                {
+                    "id": 4,
+                    "name": "testing"
+                }
+            ],
+            "selectedChatDeptts": "0"
+        }]
+}
+
